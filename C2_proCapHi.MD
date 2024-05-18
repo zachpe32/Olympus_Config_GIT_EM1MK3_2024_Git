@@ -84,8 +84,14 @@ as is
 
 #### p16-09 lens H
 C2 meme en config C2, pas sur que l'on puisse faire autre chose... xxvalider
+202240518 la touche est revenue en C1 comme avant mon essai de config
+je repasse en C2, test depuis A, repasse en P-C2, alors que mon schema etait S-C2 !! 
+pour remettre dans le bon sens :
+- mode S souhaité
+- recall par le menu le mode C", justement commenindiqué dans la notice, le mose indiquö par la molette reste, donc S et pas P, sauvegarde de ce setting en C2, et là on a bien S-C2 quand on presse p16-09 depuis P par exemple
+xxopen
 
-#### p16-09 lens B
+#### p16-10 lens B
 peak, en fait pour l'instant dans tous les modes... pas sur en PASM ???
 
 #### p17-02 menu
@@ -99,5 +105,74 @@ as is, il y a un autre menu pour choisir le AF ou AE lock
 
 #### p17-13 iso
 iso pour l'instant , voir p BRK ou HDR mais pas dans ce mode proCapture
+
+#### p17-14 arrow pad / fleches directionelles
+idem p placer la cible AF
+
+On passe aux menus plus fins, par la touche menu
+voir em 20240518 reglee avant cett etape et set C2 sauvé 17h24
+
+A1-A4 AF modes
+comme on est en mode Hispeed, pas c-AF , choix AF+MF, no scanner donc
+A1
+    Af mode S-AF MF
+    AF+MF on
+    ael afl S1 
+        Half way AF   operative
+        face priority : declencheur et ael afl off
+
+    (le reste n'est pas utilisé dans cette config)
+
+    AF scanner mode 2
+
+A2 
+    mode settings : tous sauf c2c3c4 , il faut comprendre ces Cx xxvalider
+    voir plus bas dans ce paragraphe target mode setting et p209
+    AF aera pointer On2 >> on voit en permanence ce qui est net, voir ce que ça donne avec S-AF...
+    set home : s-af mf, le petit carre central, 
+    select screen setting : parait pas utile ici
+    loop setting 
+        loop selection : off
+        Via All : no    
+    target mode settings p209
+        pour c2, c'est mis à 3 par 3 pour size et 3 par 3 pour step
+        on verra la reactivite xxvalider
+
+    orientation linked : pas coché
+
+A3 tout à off
+A4
+    starry : speed
+    preset MF : 999 m
+    avant MF assist : all on
+    MF cluch : c'est le passage en focus manuel sur optique pro : operative
+    focus ring : sens anti H
+    bulb time focusing : on
+    reset lens : off, comme cela si MaP electrique, sur un on/off, il garde le Af sur la position, peut gagner du temps et du bruit avec les vieux cailloux...
+
+
+B1 
+    button function : deja vu plus haut
+    center button HP
+    direction key : select AF area
+    Dial : REAR : shutter  front : iso p afl ael en 1 bas
+                    front : shutter   rear : comp exposure levier en 2 haut
+    dial direction : as is
+    Lever function : mode 1 p219
+    Fn lever : lever , pas on/off alim
+
+B2    rem 100% ignoré dans notice !!!
+    zoom speed : normal
+    record en play : coché selections multiples
+    reste : off
+
+C1   p220
+    
+
+
+
+
+
+
 
 
