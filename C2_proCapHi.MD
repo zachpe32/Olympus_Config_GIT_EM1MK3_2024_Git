@@ -94,8 +94,6 @@ xxopen
 #### p16-10 lens B
 peak, en fait pour l'instant dans tous les modes... pas sur en PASM ???
 
-#### p17-02 menu
-menu as is
 
 #### p17-03 live view
 live view as is
