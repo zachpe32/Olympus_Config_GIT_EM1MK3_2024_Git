@@ -167,6 +167,99 @@ B2    rem 100% ignoré dans notice !!!
     reste : off
 
 C1   p220
+   s-af release priority : off 
+    c-af release priority : off 
+    L settings : NA
+    H setttings : noSchok et silent  : NA , procapture : 
+        max Fps : 30
+        pre shutter : 15
+        full limiter : 35, en fait 2 sec pas plus
+
+        rem : avoir le doigt leger car apres ça dure p ecrire sur la carte SD
+
+    antiflicker auto et off
+
+C2
+    image stabilizer : S-IS Auto
+    le Sd choix est grisé (Fpspriority)
+    Half Way IS : on
+    Lens IS priority : yes
+
+D1   p187
+    control settings : all on
+    info setting : to be done
+    picture mode settings : not used , RAW
+    multiple shots(delay . all selected)
+    multi unction settings : all on
+
+D2
+    live view boost : on 2 p188
+    Art LV mode : mode 2 (faster)
+    Frame rate : high (p sujet rapide, mais fait chauffer le boitier)
+    LV close Up : mode2 , off
+    defaut : 5
+    settings test prof de champ : off, on (pour image plus claire, meme diaph fermé)
+
+D3
+    Grid : pas fait
+    peaking : yellow, high , on  p189
+    histogram p226 : laissé à 250, 8 à affiner avec experience du capteur
+    mode guide : on
+    selfie assist : on
+
+D4 rien fait
+
+E1 rien sauf 
+    iso auto set : 6400 defaut 200
+    lowest speed : 1/160
+     noise filter : off sinon perte de temps en basse lumiere, calibrage permanent du bruit
+    iso auto all mode p 191
+    low iso : detail priority
+
+E2
+    juste live time : 0,5 sev xxvalider le sens de ce timer...
+
+E3
+    metering : spot p193 , c'est utilisé p blocage AEL, meme si la config generale est differente
+    spot metering : mis coche partout mais pas clair , xxvalider
+    exposure shift : rien mis
+
+F rien fait
+
+G p194
+    set : as is 
+    count  : maxi definition
+    shading : en fait vignetage : off, au besoin en post prod
+
+
+H
+    rien fait
+
+I
+    EVF : on2, ça allume le viseur juste quand on approche, gain batterie ??
+    EVF adjust : on
+    sinon rien
+
+
+J1 p198
+    press and hold : tout à 0,7sec
+    menuu recall : recall, pratique quand on configure
+
+J2 rien fait
+
+terminé p cette tournée de config, à tester
+
+
+
+
+
+
+
+
+
+
+
+
     
 
 
